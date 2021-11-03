@@ -24,8 +24,8 @@ feature:
   icon: tools
   icon_pack: fas
   name: Programming Tools
-- description: Typora,Notepad++
-  icon: text
+- description: Typora,Notepad++,MikTex
+  icon: align-left
   icon_pack: fas
   name: TextEditTools
 - description: UE4,FL Studio
