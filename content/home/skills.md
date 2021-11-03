@@ -24,11 +24,11 @@ feature:
   icon: tools
   icon_pack: fas
   name: Programming Tool
-- description: <font size=5>Typora,Notepad++,MikTex</font>
+- description: <font size=5>*Typora,Notepad++,MikTex*</font>
   icon: align-left
   icon_pack: fas
   name: Text Editor
-- description: <font size=5>UE4,FL Studio</font>
+- description: <font size=5>*UE4,FL Studio*</font>
   font: 15
   icon: music
   icon_pack: fas
