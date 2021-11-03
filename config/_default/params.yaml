@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: M
+font_size: L
 
 # SEO
 
@@ -19,8 +19,12 @@ description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
-form: 
-  email: 924466726@qq.com
+content:
+  form:
+    provider: netlify
+    netlify:
+      captcha: true
+    email: 924466726@qq.com
 email: 924466726@qq.com
 contact_links:
   - icon: weixin
@@ -30,7 +34,7 @@ contact_links:
   - icon: qq
     icon_pack: fab
     name: '924466726'
-    link: 'https://w.qq.com/'
+    link: 'https://im.qq.com/index'
 
 # Site header
 
