@@ -46,7 +46,7 @@ categories:
 1. **个人demo**
 2. 写博客备用
 
-{{< figure src="https://unsplash.com/photos/szrJ3wjzOMg" title="replace img url to change img" >}}
+{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="replace img url to change img" >}}
 
 ## Get Started
 
