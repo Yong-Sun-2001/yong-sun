@@ -20,15 +20,15 @@ feature:
   icon: python
   icon_pack: fab
   name: Programming
-- description: Visual Studio Code,Visual Studio,DevC++,Pycharm,QT Creator
+- description: <font size=5>Visual Studio Code,Visual Studio,DevC++,Pycharm,QT Creator</font>
   icon: tools
   icon_pack: fas
   name: Programming Tool
-- description: Typora,Notepad++,MikTex
+- description: <font size=5>Typora,Notepad++,MikTex</font>
   icon: align-left
   icon_pack: fas
   name: Text Editor
-- description: UE4,FL Studio
+- description: <font size=5>UE4,FL Studio</font>
   font: 15
   icon: music
   icon_pack: fas
