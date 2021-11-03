@@ -25,11 +25,11 @@ contact_links:
   - icon: weixin
     icon_pack: fab
     name: sy924466726
-    link: ''
+    link: 'https://wx.qq.com/'
   - icon: qq
     icon_pack: fab
     name: '924466726'
-    link: ''
+    link: 'https://w.qq.com/'
 
 # Site header
 
