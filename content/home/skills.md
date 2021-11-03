@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: <font size=5>C/C++,Python,Matlab</font>
+- description: <font size=5>*C/C++,Python,Matlab*</font>
   icon: python
   icon_pack: fab
   name: Programming
-- description: <font size=5>Visual Studio Code,Visual Studio,DevC++,Pycharm,QT Creator</font>
+- description: <font size=5>*Visual Studio Code,Visual Studio,DevC++,Pycharm,QT Creator*</font>
   icon: tools
   icon_pack: fas
   name: Programming Tool
