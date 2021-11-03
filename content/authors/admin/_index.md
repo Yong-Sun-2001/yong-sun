@@ -18,7 +18,7 @@ bio: My research interests include Computer Graphics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Computer Graphics
 
 
 # Education to show in About widget
