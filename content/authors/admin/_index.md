@@ -36,17 +36,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Yong-Sun-2001
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
+- icon: music
   icon_pack: ai
   link: uploads/share.mp3
 
@@ -58,7 +56,6 @@ highlight_name: true
 ---
 
 Yong Sun is currently Student in the School of Computer Engineering and Science, Shanghai University, P.R.China.
-His research interests mainly focus on the 3-D Game Develop.
-He's glad to hear your experience shared.
+His research interests mainly focus on Computer Graphics. He's glad to receive your messages of anything.
 
 {{< icon name="download" pack="fas" >}} Download one of my favorite {{< staticref "uploads/share.mp3" "newtab" >}}music{{< /staticref >}}.
