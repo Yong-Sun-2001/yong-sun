@@ -19,12 +19,7 @@ description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
-content:
-  form:
-    provider: netlify
-    netlify:
-    captcha: true
-    email: 924466726@qq.com
+
 email: 924466726sun@gmail.com
 contact_links:
   - icon: weixin
