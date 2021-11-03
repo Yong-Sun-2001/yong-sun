@@ -29,6 +29,7 @@ feature:
   icon_pack: fas
   name: Text Editor
 - description: UE4,FL Studio
+  font: 15
   icon: music
   icon_pack: fas
   name: Hobby

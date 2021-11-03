@@ -22,14 +22,14 @@ twitter: ''
 
 email: 924466726@qq.com
 contact_links:
-  - icon: twitter
+  - icon: weixin
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: sy924466726
+    link: ''
+  - icon: qq
+    icon_pack: fab
+    name: '924466726'
+    link: ''
 
 # Site header
 
