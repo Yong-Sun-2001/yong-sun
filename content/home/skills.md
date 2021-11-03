@@ -23,15 +23,15 @@ feature:
 - description: Visual Studio Code,Visual Studio,DevC++,Pycharm,QT Creator
   icon: tools
   icon_pack: fas
-  name: Programming Tools
+  name: Programming Tool
 - description: Typora,Notepad++,MikTex
   icon: align-left
   icon_pack: fas
-  name: TextEditTools
+  name: Text Editor
 - description: UE4,FL Studio
   icon: music
   icon_pack: fas
-  name: Hobbies
+  name: Hobby
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
