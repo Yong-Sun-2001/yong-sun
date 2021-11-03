@@ -45,7 +45,7 @@ social:
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: music
-  icon_pack: ai
+  icon_pack: fas
   link: uploads/share.mp3
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
