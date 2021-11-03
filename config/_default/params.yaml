@@ -19,7 +19,8 @@ description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
-
+form: 
+  email: 924466726@qq.com
 email: 924466726@qq.com
 contact_links:
   - icon: weixin
