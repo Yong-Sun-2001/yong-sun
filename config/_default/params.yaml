@@ -23,9 +23,9 @@ content:
   form:
     provider: netlify
     netlify:
-      captcha: true
+    captcha: true
     email: 924466726@qq.com
-email: 924466726@qq.com
+email: 924466726sun@gmail.com
 contact_links:
   - icon: weixin
     icon_pack: fab
