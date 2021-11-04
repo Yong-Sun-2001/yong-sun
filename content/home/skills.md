@@ -20,7 +20,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Programming
-- description: <font size=5>*Visual Studio Code,Visual Studio,DevC++,Pycharm,QT Creator*</font>
+- description: <font size=5>*Git,Visual Studio Code,Visual Studio,DevC++,Pycharm,QT Creator*</font>
   icon: tools
   icon_pack: fas
   name: Programming Tool
